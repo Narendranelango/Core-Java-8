@@ -1,0 +1,34 @@
+Spell Check
+
+
+Ruya’s teacher gave her an assignment to practice the spelling of “RAINBOW”. Ruya’s mother helped her in
+doing this by spelling each letter as Ruya wrote it in her notebook. If Ruya writes wrong spelling her mother should say "The spelling is wrong"
+
+Sample Input 1:
+Enter the first letter:R
+Enter the second letter:A
+Enter the third letter:I
+Enter the fourth letter:N
+Enter the fifth letter:B
+Enter the sixth letter:O
+Enter the seventh letter:W
+
+Sample Output 1:
+
+RAINBOW
+
+
+
+Sample Input 2:
+Enter the first letter:R
+Enter the second letter:E
+Enter the third letter:I
+Enter the fourth letter:N
+Enter the fifth letter:B
+Enter the sixth letter:O
+Enter the seventh letter:W
+
+Sample Output 2:
+
+The spelling is wrong
+

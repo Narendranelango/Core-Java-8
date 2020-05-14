@@ -1,0 +1,26 @@
+Print Customer Details
+
+
+Help Mr.Ben who is a programmer, in developing a registration form on console. Customers will not just input data, but also view the details once he/she finishes the registration. 
+
+Sample Input 1:
+
+Enter your name:Jany
+
+Enter age:25
+
+Enter gender:Female
+
+Hailing from:Mexico
+
+
+
+Sample Output 1:
+
+Welcome, Jany
+
+Age:25
+
+Gender:Female
+
+City:Mexico
