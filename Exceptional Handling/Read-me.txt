@@ -1,0 +1,1 @@
+This folder contains the codes that are used to implement exceptional handling in Java.
