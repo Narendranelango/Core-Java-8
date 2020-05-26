@@ -1,0 +1,38 @@
+public class Book
+{
+    private String bookName;
+    private String authorName;
+    private int bookPrice;
+    public Book()
+    {}
+    public Book(String bookName,int bookPrice,String authorName)
+    {
+        this.bookName=bookName;
+        this.bookPrice=bookPrice;
+        this.authorName=authorName;
+    }
+    public String getBookName()
+    {
+        return this.bookName;
+    }
+    public void setBookName(String bookName)
+    {
+        this.bookName=bookName;
+    }
+    public int getBookPrice()
+    {
+        return this.bookPrice;
+    }
+    public void setBookPrice(int bookPrice)
+    {
+        this.bookPrice=bookPrice;
+    }
+    public String getAuthorNAme()
+    {
+        return this.authorName;
+    }
+    public void setAuthorName(String authorName)
+    {
+        this.authorName=authorName;
+    }
+}
