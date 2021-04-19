@@ -1,0 +1,3 @@
+ INFO main - 2021-04-20 00:01:10.810; - Log4JDemo [mainhread] - Inside do_something with parameters: 1 1.2
+DEBUG main - 2021-04-20 00:01:10.815; - Log4JDemo [mainhread] - Operation performed successfully
+ INFO main - 2021-04-20 00:01:10.816; - Log4JDemo [mainhread] - Exiting

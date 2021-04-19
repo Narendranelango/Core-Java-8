@@ -1,0 +1,8 @@
+[main] INFO  Log4JDemo  - Inside do_something with parameters: 1 1.2
+  [main] DEBUG Log4JDemo  - Operation performed successfully
+  [main] ERROR Log4JDemo  - Error occured
+  [main] INFO  Log4JDemo  - Exiting
+  [main] INFO  Log4JDemo  - Inside do_something with parameters: 1 1.2
+  [main] DEBUG Log4JDemo  - Operation performed successfully
+  [main] INFO  Log4JDemo  - Exiting
+  
