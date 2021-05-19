@@ -1,0 +1,6 @@
+2021-05-04-main-INFO -Log4JDemo :Inside do_something with parameters: 1 1.2
+2021-05-04-main-DEBUG-Log4JDemo :Operation performed successfully
+2021-05-04-main-INFO -Log4JDemo :Exiting
+2021-05-04-main-INFO -Log4JDemo :Inside do_something with parameters: 1 1.2
+2021-05-04-main-DEBUG-Log4JDemo :Operation performed successfully
+2021-05-04-main-INFO -Log4JDemo :Exiting
